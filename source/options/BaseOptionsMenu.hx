@@ -4,7 +4,6 @@ import objects.CheckboxThingie;
 import objects.AttachedText;
 import flixel.addons.transition.FlxTransitionableState;
 import options.Option;
-import 
 
 class BaseOptionsMenu extends MusicBeatSubstate
 {
